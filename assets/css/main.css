@@ -220,6 +220,7 @@ input, select, textarea {
     		background-position: center; 
     		background-repeat: no-repeat; 
     		background-size: cover; 
+		opacity: 0.8;
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
