@@ -216,6 +216,10 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
+		background-image: url("path/to/your/image.jpg");
+    		background-position: center; 
+    		background-repeat: no-repeat; 
+    		background-size: cover; 
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
